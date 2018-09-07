@@ -122,7 +122,7 @@
   /* 1屏 */
 
   .qbh-title{
-    background:url("../image/qbh-title-bg.png") no-repeat; 
+    /* background:url("../image/qbh-title-bg.png") no-repeat;  */
     background-position:center bottom;
     position: relative;
   }
@@ -183,7 +183,7 @@
 /* 2--------------p */
 
 .qbh-list{
-background:url("../image/qbh-list-bg.png") no-repeat;
+/* background:url("../image/qbh-list-bg.png") no-repeat; */
 background-position:center bottom ;
 position: relative;
 }
@@ -222,7 +222,7 @@ position: relative;
   width:222px ;
   height: 45px;
   position: absolute;
-  background:url("../image/qbh-list-search-box.png") no-repeat; 
+  /* background:url("../image/qbh-list-search-box.png") no-repeat;  */
   right: -230px;
   bottom: 296px;
  
@@ -266,7 +266,7 @@ position: relative;
 
 .qbh-buy .qbh-buy-main{
   position: absolute;
-  background: url("../image/qbh-buy-main-bg.png") no-repeat;
+  /* background: url("../image/qbh-buy-main-bg.png") no-repeat; */
   width: 990px;
   height: 600px;
   left: 50%;
@@ -296,7 +296,7 @@ position: relative;
 
   /* 第四个 */
 .qbh-info{
-  background:url("../image/qbh-info-bg.png") no-repeat center top; 
+  /* background:url("../image/qbh-info-bg.png") no-repeat center top;  */
   position: relative;
 }
 .qbh-info .qbh-info-cloud{
@@ -336,7 +336,7 @@ position: relative;
   position: absolute;
   width: 283px;
   height: 270px;
-  background:url("../image/qbh-info-address-box.png");
+  /* background:url("../image/qbh-info-address-box.png"); */
   left: 50%;
   transform: translateX(-50%);
   bottom: 230px;
@@ -368,7 +368,7 @@ position: relative;
   left: 50%;
   transform: translateX(-52%);
   bottom: 99px;
-  background: url("../image/qbh-info-cart.png");
+  /* background: url("../image/qbh-info-cart.png"); */
   
 }
 
